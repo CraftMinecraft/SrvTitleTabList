@@ -1,0 +1,13 @@
+name: TabListHeader
+author: roblabla
+url: http://dev.craftminecraft.net/
+
+version: 1.0
+main: com.craftminecraft.bukkit.tablistheader.SrvTitleTabList
+
+database: false
+description: Puts a header to the playerlist.
+
+startup: startup
+
+depend: [TabAPI]
